@@ -15,6 +15,6 @@
 3. 显示提示 `200金币`
     还有一个更加省心省力省时间的功能，那就是给用户显示一对可以消除的图片，当用户很长时间都没有找到可以连接消除的图片时，点一下这个按钮，见证眼瞎的时刻就到了。我点击过很多次这个按钮，都希望是游戏存在BUG，就是确实不存在可以继续消除的图片的情况，结果每一次都证明是自己眼瞎了。也可能是图片中的那些狗长得太像了吧。
 
-![start1.png](https://github.com/faxinwang/LLK/raw/master/imgs/start1.png "从头开始")
+![start1.png](https://github.com/faxinwang/LLK/raw/master/imgs/start1.gif "从头开始")
 
-![start2.png](https://github.com/faxinwang/LLK/raw/master/imgs/start2.png "从最高历史记录开始")
+![start2.png](https://github.com/faxinwang/LLK/raw/master/imgs/start2.gif "从最高历史记录开始")
