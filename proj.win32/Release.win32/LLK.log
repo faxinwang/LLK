@@ -1,0 +1,69 @@
+﻿  MainScene.cpp
+d:\cocos2d\cocospro\llk\classes\Dog.h(58): warning C4305: “参数”: 从“double”到“float”截断
+d:\cocos2d\cocospro\llk\classes\StartScene.h(24): warning C4996: 'cocos2d::ccp': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\deprecated/CCDeprecated.h(107): note: 参见“cocos2d::ccp”的声明
+d:\cocos2d\cocospro\llk\classes\StartScene.h(25): warning C4996: 'cocos2d::ccp': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\deprecated/CCDeprecated.h(107): note: 参见“cocos2d::ccp”的声明
+d:\cocos2d\cocospro\llk\classes\StartScene.h(28): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabel.h(594): note: 参见“cocos2d::Label::create”的声明
+d:\cocos2d\cocospro\llk\classes\StartScene.h(33): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabel.h(594): note: 参见“cocos2d::Label::create”的声明
+d:\cocos2d\cocospro\llk\classes\StartScene.h(38): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabel.h(594): note: 参见“cocos2d::Label::create”的声明
+..\Classes\MainScene.cpp(73): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\MainScene.cpp(66): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabel.h(594): note: 参见“cocos2d::Label::create”的声明
+..\Classes\MainScene.cpp(74): warning C4996: 'cocos2d::ccp': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\deprecated/CCDeprecated.h(107): note: 参见“cocos2d::ccp”的声明
+..\Classes\MainScene.cpp(78): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabel.h(594): note: 参见“cocos2d::Label::create”的声明
+..\Classes\MainScene.cpp(82): warning C4996: 'cocos2d::ccp': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\deprecated/CCDeprecated.h(107): note: 参见“cocos2d::ccp”的声明
+..\Classes\MainScene.cpp(88): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabel.h(594): note: 参见“cocos2d::Label::create”的声明
+..\Classes\MainScene.cpp(89): warning C4996: 'cocos2d::ccp': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\deprecated/CCDeprecated.h(107): note: 参见“cocos2d::ccp”的声明
+..\Classes\MainScene.cpp(96): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabel.h(594): note: 参见“cocos2d::Label::create”的声明
+..\Classes\MainScene.cpp(99): warning C4996: 'cocos2d::ccp': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\deprecated/CCDeprecated.h(107): note: 参见“cocos2d::ccp”的声明
+..\Classes\MainScene.cpp(104): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabel.h(594): note: 参见“cocos2d::Label::create”的声明
+..\Classes\MainScene.cpp(107): warning C4996: 'cocos2d::ccp': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\deprecated/CCDeprecated.h(107): note: 参见“cocos2d::ccp”的声明
+..\Classes\MainScene.cpp(112): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabel.h(594): note: 参见“cocos2d::Label::create”的声明
+..\Classes\MainScene.cpp(115): warning C4996: 'cocos2d::ccp': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\deprecated/CCDeprecated.h(107): note: 参见“cocos2d::ccp”的声明
+..\Classes\MainScene.cpp(119): warning C4996: 'cocos2d::Label::create': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\2d/CCLabel.h(594): note: 参见“cocos2d::Label::create”的声明
+..\Classes\MainScene.cpp(122): warning C4996: 'cocos2d::ccp': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\deprecated/CCDeprecated.h(107): note: 参见“cocos2d::ccp”的声明
+..\Classes\MainScene.cpp(128): warning C4996: 'cocos2d::ccp': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\deprecated/CCDeprecated.h(107): note: 参见“cocos2d::ccp”的声明
+..\Classes\MainScene.cpp(203): warning C4996: 'cocos2d::ccp': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\deprecated/CCDeprecated.h(107): note: 参见“cocos2d::ccp”的声明
+..\Classes\MainScene.cpp(341): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\MainScene.cpp(370): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\MainScene.cpp(372): warning C4996: 'cocos2d::ccp': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\deprecated/CCDeprecated.h(107): note: 参见“cocos2d::ccp”的声明
+..\Classes\MainScene.cpp(498): warning C4996: 'cocos2d::ccp': 被声明为已否决
+  d:\cocos2d\cocos2d-x-3.16\cocos\deprecated/CCDeprecated.h(107): note: 参见“cocos2d::ccp”的声明
+..\Classes\MainScene.cpp(537): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\MainScene.cpp(601): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\MainScene.cpp(602): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\MainScene.cpp(628): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\MainScene.cpp(629): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\MainScene.cpp(673): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\MainScene.cpp(674): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\MainScene.cpp(695): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\MainScene.cpp(697): warning C4305: “参数”: 从“double”到“float”截断
+..\Classes\MainScene.cpp(699): warning C4305: “参数”: 从“double”到“float”截断
+    正在创建库 D:\cocos2d\cocosPro\LLK\proj.win32\Release.win32\LLK.lib 和对象 D:\cocos2d\cocosPro\LLK\proj.win32\Release.win32\LLK.exp
+  正在生成代码
+  3 of 1038 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  LLK.vcxproj -> D:\cocos2d\cocosPro\LLK\proj.win32\Release.win32\LLK.exe
+  复制了 0 个文件
